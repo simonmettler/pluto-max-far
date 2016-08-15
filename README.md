@@ -7,7 +7,7 @@ PostGIS workflow for calculating max FAR for all BBLs based on special purpose d
 Essentially we are calculating two new attribute columns: `columna` - explanation of column a, and `columnb` - explanation of column b
 
 ##Methodology
-
+This is based on bbls. 
 ##Data Sources
 
 ##Queries
